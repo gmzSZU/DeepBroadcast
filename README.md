@@ -5,18 +5,11 @@ In the released code, we focus on the Case-II in the paper. In this case, a scen
 If you found this project helpful to your research, please cite this paper:
 
 @ARTICLE{10738311,
-  author={Gong, Mingze and Wang, Shuoyao and Ye, Fangwei and Bi, Suzhi},
-  
-  journal={IEEE Transactions on Wireless Communications}, 
-  
-  title={Compression Before Fusion: Broadcast Semantic Communication System for Heterogeneous Tasks}, 
-  
-  year={2024},
-  
+  author={Gong, Mingze and Wang, Shuoyao and Ye, Fangwei and Bi, Suzhi},  
+  journal={IEEE Transactions on Wireless Communications},   
+  title={Compression Before Fusion: Broadcast Semantic Communication System for Heterogeneous Tasks},   
+  year={2024},  
   volume={23},
-  
   number={12},
-
-  pages={19428-19443},
-  
+  pages={19428-19443},  
   doi={10.1109/TWC.2024.3483314}}
