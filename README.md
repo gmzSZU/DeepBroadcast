@@ -1,5 +1,6 @@
 # DeepBroadcast
 Source code of the paper titled "Compression Before Fusion: Broadcast Semantic Communication System for Heterogeneous Tasks", which is accepted to IEEE Transaction on Wireless Communication.
+The conference version is titled "A scalable multi-device semantic communication system for multi-task execution". 
 
 In the released code, we focus on the Case-II in the paper. In this case, a scenario where two different image classification tasks on CIFAR10 dataset are charged by two independent down-stream devices is considered. 
 If you found this project helpful to your research, please cite this paper:
